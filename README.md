@@ -1,7 +1,26 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile!
 
-# 💫 About Me:
-🌱 I'm currently learning
+I'm a **Frontend Developer** with a passion for crafting beautiful, functional, and responsive web applications.  
+
+### 💻 Tech Stack:
+- **Languages & Frameworks**:  
+  - JavaScript (ES6+), React.js, HTML, CSS  
+- **Styling Tools**:  
+  - Tailwind CSS  
+- **Version Control**:  
+  - Git & GitHub  
+- **Real-time Communication**:  
+  - Socket.IO  
+
+### 🌟 Projects:
+- **Hotel Booking System**:  
+  A fully responsive hotel booking platform designed for seamless user experience and efficient management.  
+- **Online Chat Application**:  
+  A real-time chat application built with **Socket.IO** for instant communication and smooth interaction.  
+
+### 🚀 What I'm working on:
+- Exploring advanced React.js features and real-time web applications.  
+- Continuously improving my skills in **modern frontend development tools and practices**.  
 
 
 # 💻 Tech Stack:
